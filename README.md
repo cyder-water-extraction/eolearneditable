@@ -1,9 +1,6 @@
 # Bridging Earth Observation data and Machine Learning in Python
 
 
-**Quick note to the reader**
-
-This material has been prepared for the Nordic Remote Sensing 2019 conference with everything set up beforehand. We encourage you to run the tutorial by yourself, but please have a look at the "Running the tutorial with your Sentinel Hub account" section below, which should help you with the setup. We will be happy to hear back from you; feedback is welcome. 
 
 ## Abstract
 
@@ -44,26 +41,13 @@ conda activate eo-learn-workshop
 ```
 
 
-## Downloading the tutorial materials
 
-**Note**: *We'd like to make this repository a "living" tutorial, so we will be updating the materials with the new versions and new functionalities of the `eo-learn` package. To update your local copy, you can download the latest version again, or do a `git pull` if you are using git.*
-
-If you have git installed, you can get the tutorial materials by cloning this repo:
-
-```
-git clone https://github.com/sentinel-hub/eo-learn-workshop.git
-```
-
-Otherwise, you can download the repository as a .zip file by heading over
-to the GitHub repository (https://github.com/sentinel-hub/eo-learn-workshop) in
-your browser and click the green "Download" button in the upper right:
 
 <img src="images/download-button.png" alt="download button" width="450">
 
 
-## Running the tutorial with your Sentinel Hub account
+## Running with your Sentinel Hub account
 
-**Note**: *During the workshop, we have provided a Sentinel-Hub account for the participants. If you are trying to run the tutorial by yourself, please follow these instructions.*
 
 It is possible to run the tutorial using your own Sentinel-Hub credentials. In order to do that, there are a few instructions you have to follow:
 
@@ -73,6 +57,3 @@ It is possible to run the tutorial using your own Sentinel-Hub credentials. In o
 <img src="images/instance_id.png" alt="your instance id goes here" width="550">
 
 
-## Authors
-
-EO Research team at Sinergise (<eoresearch@sinergise.com>).
