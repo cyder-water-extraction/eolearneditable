@@ -13,3 +13,4 @@ dependencies:
 - pip:
   - eo-learn
   - overpass
+  - anvil-uplink
